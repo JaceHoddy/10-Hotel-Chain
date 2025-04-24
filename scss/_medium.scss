@@ -1,0 +1,12 @@
+/* NAVIGATION STUFF GOES HERE */
+#cards section {
+    grid-template-areas:
+        "name name"
+        "photo address"
+        "photo phone";
+
+        img, .no-image {
+            max-width: 300px;
+
+        }
+}
