@@ -400,6 +400,7 @@ nav ul li.active a {
 #cards {
   display: grid;
   gap: 20px;
+  justify-items: center;
 }
 #cards section {
   border-radius: 10px;
