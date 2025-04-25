@@ -162,7 +162,7 @@ nav {
 /* --------------------------- MAIN --------------------------- */
 main {
     h1 {
-        padding: 1rem $gutter.5rem $gutter;
+        padding: 1rem $gutter 0 $gutter;
         font-size: 1.5rem;
         color: $secondaryColor;
         font-weight: $lightWeight
